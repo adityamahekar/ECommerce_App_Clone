@@ -1,4 +1,4 @@
-# 🛒 Amazon Clone Website
+# 🛒 E-Commerce-App_Clone
 
 A responsive **Amazon Clone website** built using **HTML** and **CSS**.  
 This project replicates the **UI and layout of Amazon’s homepage**, focusing on clean design, responsiveness, and front-end fundamentals.
@@ -26,10 +26,8 @@ This project replicates the **UI and layout of Amazon’s homepage**, focusing o
 
 ## 🖼️ Preview
 
-### Homepage  
 ![Homepage](./p43.png)
 
-### Products Section  
 ![Products](./p43a.png)
 
 ---
