@@ -32,12 +32,6 @@ This project replicates the **UI and layout of Amazon’s homepage**, focusing o
 
 ---
 
-## 🔗 Live Link
-
-Check out the live version of my Amazon Clone here:  
-👉 **[Visit Amazon Clone](https://adityamahekar.github.io/Simple_Protfolio/)**
-
----
 
 ## 📌 Note
 
